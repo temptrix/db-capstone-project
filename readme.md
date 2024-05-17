@@ -1,1 +1,1 @@
-This is the process for setting up the trpository for the db capstone project
+This is the process for setting up the repository for the db capstone project
