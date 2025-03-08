@@ -1,4 +1,4 @@
-# 🍋 Little Lemon Database Capstone Project  
+# 🍋 Little Lemon Database Capstone Project-
 
 ## 📌 Project Overview  
 This capstone project demonstrates key **data engineering** skills by designing and implementing a **database solution** for a restaurant business, **Little Lemon**.  
@@ -17,11 +17,12 @@ By completing this project, I combined multiple **data engineering concepts** in
 ## 📊 Tableau Interactive Dashboard  
 Below is a **screenshot** of the Tableau Dashboard, which includes **visualizations** for **sales trends, profits, and geographical insights**.  
 
-![Tableau Dashboard](Tableau_Dashboard.png)  
+![Tableau Dashboard](Tableau_Dashboard.png.png)  
 
 👉 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/uvie.omimi.okoro/viz/VisualizationWithTableau-MAIN/Dashboard1?publish=yes)**  
 
-📂 **Download the Tableau Workbook (`.twbx` file) here**: [`ALL_TABLEAU_WORKSHEET_AND_INTERACTIVE_DASHBOARD.twbx`](ALL_TABLEAU_WORKSHEET_AND_INTERACTIVE_DASHBOARD.twbx)  
+📂 **Download the Tableau Workbook (`.twbx` file) here**:  
+[`ALL_TABLEAU_WORKSHEET_AND_INTERACTIVE_DASHBOARD.twbx`](ALL%20TABLEAU%20PNG%20AND%20FILES/ALL_TABLEAU_WORKSHEET_AND_INTERACTIVE_DASHBOARD.twbx)  
 
 ---
 
@@ -35,12 +36,12 @@ Using **Star Schema** ensures **faster query performance**, **simplified data re
 ---
 
 ## 🚀 Skills & Technologies Used  
-- **Database Management**: MySQL Workbench  
-- **Data Analysis & Queries**: SQL (Joins, Aggregations, Optimization)  
-- **Star Schema Design**: Optimized for fast queries  
-- **Visualization**: Tableau (Interactive Dashboards)  
-- **Programming**: Python (Database Client Development)  
-- **Version Control**: Git & GitHub  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -67,6 +68,7 @@ Using **Star Schema** ensures **faster query performance**, **simplified data re
 ---
 
 ## 🔧 Installation & Setup  
+
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/temptrix/db-capstone-project.git
